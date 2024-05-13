@@ -1,0 +1,130 @@
+﻿Sequence file name,Sample Name,Crop,Sample type,Irrigation
+Plate_3_F1,MQNP-Soil,No plant,Control soil,Milli-Q water
+Plate_3_F2,MQNP-Soil,No plant,Control soil,Milli-Q water
+Plate_3_F3,MQNP-Soil,No plant,Control soil,Milli-Q water
+Plate_3_F4,MQNP-Soil,No plant,Control soil,Milli-Q water
+Plate_3_F5,MQNP-Soil,No plant,Control soil,Milli-Q water
+Plate_3_F6,MQRd-Bulk soil,Radish,Control Bulk soil,Milli-Q water
+Plate_3_F7,MQRd-Bulk soil,Radish,Control Bulk soil,Milli-Q water
+Plate_3_F8,MQRd-Bulk soil,Radish,Control Bulk soil,Milli-Q water
+Plate_3_F9,MQRd-Bulk soil,Radish,Control Bulk soil,Milli-Q water
+Plate_3_F10,MQRd-Bulk soil,Radish,Control Bulk soil,Milli-Q water
+Plate_3_F11,MQSp-Bulk soil,Spinach,Control bulk soil,Milli-Q water
+Plate_3_F12,MQSp-Bulk soil,Spinach,Control bulk soil,Milli-Q water
+Plate_3_G1,MQSp-Bulk soil,Spinach,Control bulk soil,Milli-Q water
+Plate_3_G2,MQSp-Bulk soil,Spinach,Control bulk soil,Milli-Q water
+Plate_3_G3,MQSp-Bulk soil,Spinach,Control bulk soil,Milli-Q water
+Plate_3_G4,TMWNP-Soil,No plant,Control soil,TMW
+Plate_3_G5,TMWNP-Soil,No plant,Control soil,TMW
+Plate_3_G6,TMWNP-Soil,No plant,Control soil,TMW
+Plate_3_G7,TMWNP-Soil,No plant,Control soil,TMW
+Plate_3_G9,TMWRd-Bulk soil,Radish,Bulk soil,TMW
+Plate_3_G10,TMWRd-Bulk soil,Radish,Bulk soil,TMW
+Plate_3_G11,TMWRd-Bulk soil,Radish,Bulk soil,TMW
+Plate_3_G12,TMWRd-Bulk soil,Radish,Bulk soil,TMW
+Plate_3_H1,TMWRd-Bulk soil,Radish,Bulk soil,TMW
+Plate_3_H2,TMWRd-Bulk soil,Radish,Bulk soil,TMW
+Plate_3_H3,TMWSp-Bulk soil,Spinach,Bulk soil,TMW
+Plate_3_H5,TMWSp-Bulk soil,Spinach,Bulk soil,TMW
+Plate_3_H6,TMWSp-Bulk soil,Spinach,Bulk soil,TMW
+Plate_3_H7,TMW10Rd-Bulk soil,Radish,Bulk soil,TMW + 10 μgL-1  antibiotics*
+Plate_3_H8,TMW10Rd-Bulk soil,Radish,Bulk soil,TMW + 10 μgL-1  antibiotics*
+Plate_3_H9,TMW10Rd-Bulk soil,Radish,Bulk soil,TMW + 10 μgL-1  antibiotics*
+Plate_3_H10,TMW10Rd-Bulk soil,Radish,Bulk soil,TMW + 10 μgL-1  antibiotics*
+Plate_3_H11,TMW10Rd-Bulk soil,Radish,Bulk soil,TMW + 10 μgL-1  antibiotics*
+Plate_4_A1,TMW10Sp-Bulk soil,Spinach,Bulk soil,TMW + 10 μgL-1 antibiotics*
+Plate_4_A2,TMW10Sp-Bulk soil,Spinach,Bulk soil,TMW + 10 μgL-1 antibiotics*
+Plate_4_A3,TMW10Sp-Bulk soil,Spinach,Bulk soil,TMW + 10 μgL-1 antibiotics*
+Plate_4_A4,TMW10Sp-Bulk soil,Spinach,Bulk soil,TMW + 10 μgL-1 antibiotics*
+Plate_4_A6,TMW100Rd-Bulk soil,Radish,Bulk soil,TMW + 100 μgL-1  antibiotics*
+Plate_4_A7,TMW100Rd-Bulk soil,Radish,Bulk soil,TMW + 100 μgL-1  antibiotics*
+Plate_4_A8,TMW100Rd-Bulk soil,Radish,Bulk soil,TMW + 100 μgL-1  antibiotics*
+Plate_4_A9,TMW100Rd-Bulk soil,Radish,Bulk soil,TMW + 100 μgL-1  antibiotics*
+Plate_4_A10,TMW100Sp-Bulk soil,Spinach,Bulk soil,TMW + 100 μgL-1  antibiotics
+Plate_4_A12,TMW100Sp-Bulk soil,Spinach,Bulk soil,TMW + 100 μgL-1  antibiotics
+Plate_4_B1,TMW100Sp-Bulk soil,Spinach,Bulk soil,TMW + 100 μgL-1  antibiotics
+Plate_4_B2,TMW100Sp-Bulk soil,Spinach,Bulk soil,TMW + 100 μgL-1  antibiotics
+Plate_4_B3,MQRd-Rizho soil,Radish,Control Rhizosphere soil,Milli-Q water
+Plate_4_B4,MQRd-Rizho soil,Radish,Control Rhizosphere soil,Milli-Q water
+Plate_4_B5,MQRd-Rizho soil,Radish,Control Rhizosphere soil,Milli-Q water
+Plate_4_B6,MQSp-Rizho soil,Spinach,Control Rhizosphere soil,Milli-Q water
+Plate_4_B7,MQSp-Rizho soil,Spinach,Control Rhizosphere soil,Milli-Q water
+Plate_4_B8,MQSp-Rizho soil,Spinach,Control Rhizosphere soil,Milli-Q water
+Plate_4_B9,TMWRd-Rizho soil,Radish,Rhizosphere soil,TMW
+Plate_4_B10,TMWRd-Rizho soil,Radish,Rhizosphere soil,TMW
+Plate_4_B11,TMWRd-Rizho soil,Radish,Rhizosphere soil,TMW
+Plate_4_B12,TMWSp-Rizho soil,Spinach,Rhizosphere soil,TMW
+Plate_4_C1,TMWSp-Rizho soil,Spinach,Rhizosphere soil,TMW
+Plate_4_C2,TMW10Rd-Rizho soil,Radish,Rhizosphere soil,TMW + 10 μgL-1  antibiotics*
+Plate_4_C3,TMW10Rd-Rizho soil,Radish,Rhizosphere soil,TMW + 10 μgL-1  antibiotics*
+Plate_4_C4,TMW10Rd-Rizho soil,Radish,Rhizosphere soil,TMW + 10 μgL-1  antibiotics*
+Plate_4_C5,TMW10Sp-Rizho soil,Spinach,Rhizosphere soil,TMW + 10 μgL-1  antibiotics*
+Plate_4_C6,TMW10Sp-Rizho soil,Spinach,Rhizosphere soil,TMW + 10 μgL-1  antibiotics*
+Plate_4_C7,TMW10Sp-Rizho soil,Spinach,Rhizosphere soil,TMW + 10 μgL-1  antibiotics*
+Plate_4_C8,TMW100Rd-Rizho soil,Radish,Rhizosphere soil,TMW + 100 μgL-1  antibiotics*
+Plate_4_C9,TMW100Rd-Rizho soil,Radish,Rhizosphere soil,TMW + 100 μgL-1  antibiotics*
+Plate_4_C10,TMW100Rd-Rizho soil,Radish,Rhizosphere soil,TMW + 100 μgL-1  antibiotics*
+Plate_4_C11,TMW100Sp-Rizho soil,Spinach,Rhizosphere soil,TMW + 100 μgL-1  antibiotics*
+Plate_4_C12,TMW100Sp-Rizho soil,Spinach,Rhizosphere soil,TMW + 100 μgL-1  antibiotics*
+Plate_4_D1,TMW100Sp-Rizho soil,Spinach,Rhizosphere soil,TMW + 100 μgL-1  antibiotics*
+Plate_4_D2,MQSp-Phyllosphere,Spinach,Control Phyllosphere,Milli-Q water
+Plate_4_D8,TMWSp-Phyllosphere,Spinach,Phyllosphere,TMW
+Plate_4_D9,TMWSp-Phyllosphere,Spinach,Phyllosphere,TMW
+Plate_4_D11,TMWRd-Phyllosphere,Radish,Phyllosphere,TMW
+Plate_4_E1,TMW10Sp-Phyllosphere,Spinach,Phyllosphere,TMW + 10 μgL-1  antibiotics*
+Plate_4_E3,TMW10Sp-Phyllosphere,Spinach,Phyllosphere,TMW + 10 μgL-1  antibiotics*
+Plate_4_E5,TMW10Rd-Phyllosphere,Radish,Phyllosphere,TMW + 10 μgL-1  antibiotics*
+Plate_4_E7,TMW100Sp-Phyllosphere,Spinach,Phyllosphere,TMW + 100 μgL-1  antibiotics*
+Plate_4_E8,TMW100Sp-Phyllosphere,Spinach,Phyllosphere,TMW + 100 μgL-1  antibiotics*
+Plate_4_E9,TMW100Sp-Phyllosphere,Spinach,Phyllosphere,TMW + 100 μgL-1  antibiotics*
+Plate_4_E10,TMW100Rd-Phyllosphere,Radish,Phyllosphere,TMW + 100 μgL-1  antibiotics*
+Plate_4_E11,TMW100Rd-Phyllosphere,Radish,Phyllosphere,TMW + 100 μgL-1  antibiotics*
+Plate_4_E12,TMW100Rd-Phyllosphere,Radish,Phyllosphere,TMW + 100 μgL-1  antibiotics*
+Plate_11_A1,MQSp-Feces,MQSp,Earthworm feces,-
+Plate_11_A2,MQSp-Feces,MQSp,Earthworm feces,-
+Plate_11_A3,TMWSp-Feces,TMWSp,Earthworm feces,-
+Plate_11_A4,TMWSp-Feces,TMWSp,Earthworm feces,-
+Plate_11_A5,TMW10Sp-Feces,TMW10Sp,Earthworm feces,-
+Plate_11_A6,TMW10Sp-Feces,TMW10Sp,Earthworm feces,-
+Plate_11_A7,TMW100Sp-Feces,TMW100Sp,Earthworm feces,-
+Plate_11_A8,TMW100Sp-Feces,TMW100Sp,Earthworm feces,-
+Plate_11_A9,MQSp-Spike1-Soil,MQSp,Earthworm pot soil,1 μgL-1  antibiotics
+Plate_11_A10,MQSp-Spike1-Soil,MQSp,Earthworm pot soil,1 μgL-1  antibiotics
+Plate_11_A11,MQSp-Spike10-Soil,MQSp,Earthworm pot soil,10 μgL-1  antibiotics
+Plate_11_A12,MQSp-Spike10-Soil,MQSp,Earthworm pot soil,10 μgL-1  antibiotics
+Plate_11_B1,MQSp-Soil,MQSp,Earthworm pot soil,-
+Plate_11_B2,MQSp-Soil,MQSp,Earthworm pot soil,-
+Plate_11_B3,TMWSp-Soil,TMWSp,Earthworm pot soil,-
+Plate_11_B4,TMWSp-Soil,TMWSp,Earthworm pot soil,-
+Plate_11_B5,TMW10Sp-Soil,TMW10Sp,Earthworm pot soil,-
+Plate_11_B6,TMW10Sp-Soil,TMW10Sp,Earthworm pot soil,-
+Plate_11_B7,TMW100Sp-Soil,TMW100Sp,Earthworm pot soil,-
+Plate_11_B8,TMW100Sp-Soil,TMW100Sp,Earthworm pot soil,-
+Plate_11_B9,MQSp-Spike1-Soil,MQSp,Earthworm pot soil,1 μgL-1  antibiotics
+Plate_11_B10,MQSp-Spike1-Soil,MQSp,Earthworm pot soil,1 μgL-1  antibiotics
+Plate_11_B11,MQSp-Spike10-Soil,MQSp,Earthworm pot soil,10 μgL-1  antibiotics
+Plate_11_B12,MQSp-Spike10-Soil,MQSp,Earthworm pot soil,10 μgL-1  antibiotics
+Plate_11_C1,MQRd-Feces,MQRd,Earthworm feces,-
+Plate_11_C2,MQRd-Feces,MQRd,Earthworm feces,-
+Plate_11_C3,MQRd-Spike1- Feces,MQRd,Earthworm feces,1 μgL-1  antibiotics
+Plate_11_C4,MQRd-Spike1- Feces,MQRd,Earthworm feces,1 μgL-1  antibiotics
+Plate_11_C5,MQRd-Spike10- Feces,MQRd,Earthworm feces,10 μgL-1  antibiotics
+Plate_11_C6,MQRd-Spike10- Feces,MQRd,Earthworm feces,10 μgL-1  antibiotics
+Plate_11_C7,TMWRd- Feces,TMWRd,Earthworm feces,-
+Plate_11_C8,TMWRd- Feces,TMWRd,Earthworm feces,-
+Plate_11_C9,TMW10Rd- Feces,TMW10Rd,Earthworm feces,-
+Plate_11_C10,TMW10Rd- Feces,TMW10Rd,Earthworm feces,-
+Plate_11_C11,TMW100Rd-Soil,TMW100Rd,Earthworm pot soil,-
+Plate_11_C12,TMW100Rd-Soil,TMW100Rd,Earthworm pot soil,-
+Plate_11_D1,MQRd-Soil,MQRd,Earthworm pot soil,-
+Plate_11_D2,MQRd-Soil,MQRd,Earthworm pot soil,-
+Plate_11_D3,MQRd-Spike1-Soil,MQRd,Earthworm pot soil,1 μgL-1  antibiotics
+Plate_11_D4,MQRd-Spike1-Soil,MQRd,Earthworm pot soil,1 μgL-1  antibiotics
+Plate_11_D5,MQRd-Spike10-Soil,MQRd,Earthworm pot soil,10 μgL-1  antibiotics
+Plate_11_D6,MQRd-Spike10-Soil,MQRd,Earthworm pot soil,10 μgL-1  antibiotics
+Plate_11_D7,TMWRd-Soil,TMWRd,Earthworm pot soil,-
+Plate_11_D8,TMWRd-Soil,TMWRd,Earthworm pot soil,-
+Plate_11_D9,TMW10Rd-Soil,TMW10Rd,Earthworm pot soil,-
+Plate_11_D10,TMW10Rd-Soil,TMW10Rd,Earthworm pot soil,-
+Plate_11_D11,TMW100Rd-Soil,TMW100Rd,Earthworm pot soil,-
+Plate_11_D12,TMW100Rd-Soil,TMW100Rd,Earthworm pot soil,-
